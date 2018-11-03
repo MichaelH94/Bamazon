@@ -1,0 +1,27 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Bamazon App for the KU Coding Bootcamp",
+  "main": "bamazoncustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelH94/Bamazon.git"
+  },
+  "keywords": [
+    "bamazon"
+  ],
+  "author": "Michael Haggard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichaelH94/Bamazon/issues"
+  },
+  "homepage": "https://github.com/MichaelH94/Bamazon#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "inquirer": "^6.2.0",
+    "mysql": "^2.16.0"
+  }
+}
